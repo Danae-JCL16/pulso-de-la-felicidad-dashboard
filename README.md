@@ -1,6 +1,7 @@
 # pulso-de-la-felicidad-dashboard
 
 Integrantes del equipo:
+
 1. Danae Joceline Cortes López
 2. Natália Leandro Lara
 
